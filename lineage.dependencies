@@ -1,13 +1,11 @@
 [
   {
-     "remote":       "laos",
-     "repository":   "android_kernel_xiaomi_armani",
+     "repository":   "LineageOS/android_kernel_xiaomi_armani",
      "target_path":  "kernel/xiaomi/armani",
      "branch":       "cm-14.1"
   },
   {
-     "remote":       "laos",
-     "repository":   "android_device_qcom_common",
+     "repository":   "LineageOS/android_device_qcom_common",
      "target_path":  "device/qcom/common",
      "branch":       "cm-14.1"
   }
